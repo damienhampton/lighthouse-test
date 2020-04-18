@@ -1,0 +1,26 @@
+{
+  "name": "lighthouse-test",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienhampton/lighthouse-test.git"
+  },
+  "keywords": [],
+  "author": "Damien Hampton <damien@26brains.com> (https://twitter.com/damien_hampton)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienhampton/lighthouse-test/issues"
+  },
+  "homepage": "https://github.com/damienhampton/lighthouse-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
